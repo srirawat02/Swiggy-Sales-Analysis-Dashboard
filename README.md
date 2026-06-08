@@ -1,6 +1,8 @@
 #  Swiggy Sales Analysis Dashboard
 
-##  Project Overview
+<img width="1284" height="783" alt="image" src="https://github.com/user-attachments/assets/8690f85f-3a18-4d16-af23-b90a37d19b66" />
+
+#  Project Overview
 
 This project analyzes Swiggy food order data using Microsoft Excel to uncover sales trends, customer preferences, restaurant performance, and regional demand patterns.
 
@@ -86,7 +88,6 @@ Users can filter results by:
 
 #  Dashboard Visualizations & Insights
 
----
 
 ##  KPI Summary Cards
 
